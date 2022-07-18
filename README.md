@@ -1,8 +1,11 @@
-# Game Journal
-Explorations into game theory, starting with tabletop board games.
+# Teaching Journal
+A dedicated journal for teaching programming and learning teaching fundamentals in general.
 
----
+[Live Site](https://acidtone.github.io/gaming-journal/)
 
-## July 17, 2022
-- TODO: Breakdown "[White, Brown, and Pink: The Flavors of Tabletop Game Randomness](https://www.youtube.com/watch?v=qXn3tGBztVc)"
-    - TODO: Listen to a [Ludology](https://ludology.libsyn.com/) episode by [Geoff Engelstein](https://twitter.com/gengelstein) 
+## Purpose
+This is a learning journal for game theory. Its purpose is to document my journey into game design with an eye toward programming and teaching.
+
+## Table of Contents
+- `/index.md`: A reverse chronological list of daily notes/entries.
+- `/breakdowns`: Summaries of individual articles, videos and resources.
